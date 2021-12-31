@@ -1138,4 +1138,10 @@ If you are overwhelmed by the number of quests, you can always fine-tune which q
 Alternatively, you can leave a note (with a photo)."</string>
     <string name="quest_shoulder_title">"Does this road have a shoulder?"</string>
     <string name="quest_fireHydrant_diameter_ref_title">What diameter is specified on the sign for this fire hydrant? (reference number: %s)</string>
+    <string name="quest_railway_electrification_system_title">Is this railway track section electrified?</string>
+    <string name="quest_electrification_no">No power supply equipment</string>
+    <string name="quest_electrification_overhead">Overhead power supply</string>
+    <string name="quest_electrification_third_rail">Power supplied by one additional rail</string>
+    <string name="quest_electrification_fourth_rail">Power supplied by two additional rails</string>
+    <string name="quest_electrification_ground_level">Ground-level power supply (APS)</string>
 </resources>
